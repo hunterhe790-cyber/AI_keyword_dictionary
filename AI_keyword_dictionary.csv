@@ -1,0 +1,219 @@
+id,category,category_zh,keyword_zh,keyword_en
+1,AI Hardware Platform,AI 硬件平台,智能集成电路,intelligent integrated circuit
+2,AI Hardware Platform,AI 硬件平台,智能芯片,smart chip
+3,AI Hardware Platform,AI 硬件平台,AI 芯片,AI chip
+4,AI Hardware Platform,AI 硬件平台,智能单片机,intelligent microcontroller
+5,AI Hardware Platform,AI 硬件平台,GPU,graphics processing unit (GPU)
+6,AI Hardware Platform,AI 硬件平台,图形处理器,graphics processing unit
+7,AI Hardware Platform,AI 硬件平台,图像处理器,image processor
+8,AI Hardware Platform,AI 硬件平台,视觉处理器,vision processor
+9,AI Hardware Platform,AI 硬件平台,显示卡芯片,display card chip
+10,AI Hardware Platform,AI 硬件平台,显卡芯片,graphics card chip
+11,AI Hardware Platform,AI 硬件平台,FPGA,field-programmable gate array (FPGA)
+12,AI Hardware Platform,AI 硬件平台,现场可编程逻辑器件,field-programmable logic device
+13,AI Hardware Platform,AI 硬件平台,现场可编程门阵列,field-programmable gate array
+14,AI Hardware Platform,AI 硬件平台,现场可编程逻辑门阵列,field-programmable logic gate array
+15,AI Hardware Platform,AI 硬件平台,ASIC,application-specific integrated circuit (ASIC)
+16,AI Hardware Platform,AI 硬件平台,专用集成电路,application-specific integrated circuit
+17,AI Hardware Platform,AI 硬件平台,专用大规模集成电路,application-specific large-scale integrated circuit
+18,AI Hardware Platform,AI 硬件平台,专用集成芯片,application-specific integrated chip
+19,AI Hardware Platform,AI 硬件平台,专用芯片,dedicated chip
+20,AI Hardware Platform,AI 硬件平台,SOC 芯片,system-on-chip (SoC)
+21,AI Hardware Platform,AI 硬件平台,类脑芯片,brain-inspired chip
+22,AI Hardware Platform,AI 硬件平台,类脑计算机,brain-inspired computer
+23,AI Hardware Platform,AI 硬件平台,神经芯片,neurochip
+24,AI Hardware Platform,AI 硬件平台,神经拟态,neuromorphic computing
+25,AI Hardware Platform,AI 硬件平台,忆阻器,memristor
+26,AI Hardware Platform,AI 硬件平台,NPU,neural processing unit (NPU)
+27,AI Hardware Platform,AI 硬件平台,神经网络处理器,neural network processor
+28,AI Hardware Platform,AI 硬件平台,CPLD,complex programmable logic device (CPLD)
+29,General AI Technologies,通用人工智能技术,机器学习,machine learning
+30,General AI Technologies,通用人工智能技术,强化学习,reinforcement learning
+31,General AI Technologies,通用人工智能技术,深度学习,deep learning
+32,General AI Technologies,通用人工智能技术,隐私计算,privacy-preserving computation
+33,General AI Technologies,通用人工智能技术,支持向量机,support vector machine (SVM)
+34,General AI Technologies,通用人工智能技术,决策树,decision tree
+35,General AI Technologies,通用人工智能技术,K 近邻算法,k-nearest neighbors algorithm (KNN)
+36,General AI Technologies,通用人工智能技术,集成学习,ensemble learning
+37,General AI Technologies,通用人工智能技术,增强学习,enhanced learning
+38,General AI Technologies,通用人工智能技术,马尔科夫模型,Markov model
+39,General AI Technologies,通用人工智能技术,深度 Q 网络,deep Q-network (DQN)
+40,General AI Technologies,通用人工智能技术,策略优化,policy optimization
+41,General AI Technologies,通用人工智能技术,多智能体系统,multi-agent system
+42,General AI Technologies,通用人工智能技术,模仿学习,imitation learning
+43,General AI Technologies,通用人工智能技术,A3C 算法,A3C algorithm
+44,General AI Technologies,通用人工智能技术,深度神经网络,deep neural network
+45,General AI Technologies,通用人工智能技术,多层神经网络,multilayer neural network
+46,General AI Technologies,通用人工智能技术,卷积神经网络,convolutional neural network
+47,General AI Technologies,通用人工智能技术,循环神经网络,recurrent neural network
+48,General AI Technologies,通用人工智能技术,知识图谱,knowledge graph
+49,General AI Technologies,通用人工智能技术,知识融合,knowledge fusion
+50,General AI Technologies,通用人工智能技术,知识提取,knowledge extraction
+51,General AI Technologies,通用人工智能技术,知识加工,knowledge processing
+52,General AI Technologies,通用人工智能技术,本体论,ontology
+53,General AI Technologies,通用人工智能技术,大脑模拟,brain simulation
+54,General AI Technologies,通用人工智能技术,神经计算,neurocomputing
+55,General AI Technologies,通用人工智能技术,脑模型,brain model
+56,General AI Technologies,通用人工智能技术,人造生命,artificial life
+57,General AI Technologies,通用人工智能技术,合成生活,synthetic life
+58,General AI Technologies,通用人工智能技术,虚拟生物,virtual organism
+59,General AI Technologies,通用人工智能技术,超导量子处理器,superconducting quantum processor
+60,General AI Technologies,通用人工智能技术,离子阱量子处理器,trapped-ion quantum processor
+61,General AI Technologies,通用人工智能技术,硅基半导体量子处理器,silicon-based semiconductor quantum processor
+62,General AI Technologies,通用人工智能技术,光量子处理器,photonic quantum processor
+63,General AI Technologies,通用人工智能技术,量子机器学习,quantum machine learning
+64,General AI Technologies,通用人工智能技术,量子算法,quantum algorithm
+65,General AI Technologies,通用人工智能技术,量子编程,quantum programming
+66,General AI Technologies,通用人工智能技术,量子比特,qubit
+67,General AI Technologies,通用人工智能技术,量子力学,quantum mechanics
+68,General AI Technologies,通用人工智能技术,模式识别,pattern recognition
+69,General AI Technologies,通用人工智能技术,模式分类,pattern classification
+70,General AI Technologies,通用人工智能技术,模式聚类,pattern clustering
+71,General AI Technologies,通用人工智能技术,信号模式识别,signal pattern recognition
+72,General AI Technologies,通用人工智能技术,对象识别,object recognition
+73,General AI Technologies,通用人工智能技术,客体识别,object recognition
+74,General AI Technologies,通用人工智能技术,蚁群算法,ant colony algorithm
+75,General AI Technologies,通用人工智能技术,粒子群算法,particle swarm algorithm
+76,General AI Technologies,通用人工智能技术,狼群算法,wolf pack algorithm
+77,General AI Technologies,通用人工智能技术,果蝇算法,fruit fly optimization algorithm
+78,General AI Technologies,通用人工智能技术,社会模拟,social simulation
+79,General AI Technologies,通用人工智能技术,虚拟世界,virtual world
+80,General AI Technologies,通用人工智能技术,生物智能,biological intelligence
+81,General AI Technologies,通用人工智能技术,机器智能,machine intelligence
+82,General AI Technologies,通用人工智能技术,宠物机器人,pet robot
+83,General AI Technologies,通用人工智能技术,人形机器人,humanoid robot
+84,Key AI Technologies,关键人工智能技术,语义处理,semantic processing
+85,Key AI Technologies,关键人工智能技术,机器翻译,machine translation
+86,Key AI Technologies,关键人工智能技术,字符识别,character recognition
+87,Key AI Technologies,关键人工智能技术,语法分析,syntax analysis
+88,Key AI Technologies,关键人工智能技术,词频统计,word frequency statistics
+89,Key AI Technologies,关键人工智能技术,分词,word segmentation
+90,Key AI Technologies,关键人工智能技术,自然语言查询,natural language query
+91,Key AI Technologies,关键人工智能技术,机器问答,machine question answering
+92,Key AI Technologies,关键人工智能技术,自动翻译,automatic translation
+93,Key AI Technologies,关键人工智能技术,智能翻译,intelligent translation
+94,Key AI Technologies,关键人工智能技术,语言转换器,language converter
+95,Key AI Technologies,关键人工智能技术,直译翻译,direct translation
+96,Key AI Technologies,关键人工智能技术,规则式翻译,rule-based translation
+97,Key AI Technologies,关键人工智能技术,中介语式翻译,interlingua-based translation
+98,Key AI Technologies,关键人工智能技术,神经网络机器翻译,neural machine translation
+99,Key AI Technologies,关键人工智能技术,语义识别,semantic recognition
+100,Key AI Technologies,关键人工智能技术,语义分析,semantic analysis
+101,Key AI Technologies,关键人工智能技术,语义检索,semantic retrieval
+102,Key AI Technologies,关键人工智能技术,语义分割,semantic segmentation
+103,Key AI Technologies,关键人工智能技术,语义分类,semantic classification
+104,Key AI Technologies,关键人工智能技术,语义融合,semantic fusion
+105,Key AI Technologies,关键人工智能技术,语音传感,speech sensing
+106,Key AI Technologies,关键人工智能技术,语音识别,speech recognition
+107,Key AI Technologies,关键人工智能技术,语音合成,speech synthesis
+108,Key AI Technologies,关键人工智能技术,声纹识别,voiceprint recognition
+109,Key AI Technologies,关键人工智能技术,语音检索,speech retrieval
+110,Key AI Technologies,关键人工智能技术,语音控制,speech control
+111,Key AI Technologies,关键人工智能技术,语音导航,speech navigation
+112,Key AI Technologies,关键人工智能技术,语音编码解码,speech encoding and decoding
+113,Key AI Technologies,关键人工智能技术,语音增强,speech enhancement
+114,Key AI Technologies,关键人工智能技术,语音分类,speech classification
+115,Key AI Technologies,关键人工智能技术,波形拼接,waveform concatenation
+116,Key AI Technologies,关键人工智能技术,神经声码,neural vocoding
+117,Key AI Technologies,关键人工智能技术,文语合成,text-to-speech synthesis
+118,Key AI Technologies,关键人工智能技术,图像传感,image sensing
+119,Key AI Technologies,关键人工智能技术,图像识别,image recognition
+120,Key AI Technologies,关键人工智能技术,图像生成,image generation
+121,Key AI Technologies,关键人工智能技术,图像增强,image enhancement
+122,Key AI Technologies,关键人工智能技术,图像检索,image retrieval
+123,Key AI Technologies,关键人工智能技术,图像检测,image detection
+124,Key AI Technologies,关键人工智能技术,图像辨别,image discrimination
+125,Key AI Technologies,关键人工智能技术,图像分类,image classification
+126,Key AI Technologies,关键人工智能技术,图像提取,image extraction
+127,Key AI Technologies,关键人工智能技术,图像聚类,image clustering
+128,Key AI Technologies,关键人工智能技术,图像匹配,image matching
+129,Key AI Technologies,关键人工智能技术,图像语义分割,image semantic segmentation
+130,Key AI Technologies,关键人工智能技术,图像锐化,image sharpening
+131,Key AI Technologies,关键人工智能技术,图像对比度,image contrast
+132,Key AI Technologies,关键人工智能技术,图像动态范围,image dynamic range
+133,Key AI Technologies,关键人工智能技术,图像滤波,image filtering
+134,Key AI Technologies,关键人工智能技术,图像校正,image correction
+135,Key AI Technologies,关键人工智能技术,图像标准化,image standardization
+136,Key AI Technologies,关键人工智能技术,图像合成,image synthesis
+137,Key AI Technologies,关键人工智能技术,图像生成式对抗网络,image generative adversarial network
+138,Key AI Technologies,关键人工智能技术,动画制作,animation production
+139,Key AI Technologies,关键人工智能技术,图像重建,image reconstruction
+140,Key AI Technologies,关键人工智能技术,指纹识别,fingerprint recognition
+141,Key AI Technologies,关键人工智能技术,人脸识别,facial recognition
+142,Key AI Technologies,关键人工智能技术,虹膜识别,iris recognition
+143,Key AI Technologies,关键人工智能技术,DNA 识别,DNA recognition
+144,Key AI Technologies,关键人工智能技术,行为特征识别,behavioral feature recognition
+145,Key AI Technologies,关键人工智能技术,动静脉识别,arteriovenous recognition
+146,Key AI Technologies,关键人工智能技术,活体检测,liveness detection
+147,Key AI Technologies,关键人工智能技术,指纹输入,fingerprint input
+148,Key AI Technologies,关键人工智能技术,指纹提取,fingerprint extraction
+149,Key AI Technologies,关键人工智能技术,指纹分类,fingerprint classification
+150,Key AI Technologies,关键人工智能技术,指纹验证,fingerprint verification
+151,Key AI Technologies,关键人工智能技术,面部捕获,facial capture
+152,Key AI Technologies,关键人工智能技术,面部提取,facial extraction
+153,Key AI Technologies,关键人工智能技术,面部识别,facial recognition
+154,Key AI Technologies,关键人工智能技术,表情识别,facial expression recognition
+155,Key AI Technologies,关键人工智能技术,人脸验证,face verification
+156,Key AI Technologies,关键人工智能技术,虹膜检测,iris detection
+157,Key AI Technologies,关键人工智能技术,视网膜检测,retinal detection
+158,Key AI Technologies,关键人工智能技术,虹膜验证,iris verification
+159,Key AI Technologies,关键人工智能技术,声音识别,sound recognition
+160,Key AI Technologies,关键人工智能技术,声纹辨认,voiceprint identification
+161,Key AI Technologies,关键人工智能技术,声纹拼接,voiceprint concatenation
+162,Key AI Technologies,关键人工智能技术,声纹波形,voiceprint waveform
+163,Key AI Technologies,关键人工智能技术,DNA 检测,DNA detection
+164,Key AI Technologies,关键人工智能技术,DNA 编解码,DNA encoding and decoding
+165,Key AI Technologies,关键人工智能技术,DNA 比对,DNA comparison
+166,Key AI Technologies,关键人工智能技术,DNA 鉴定,DNA identification
+167,Key AI Technologies,关键人工智能技术,动作捕捉,motion capture
+168,Key AI Technologies,关键人工智能技术,动作识别,action recognition
+169,Key AI Technologies,关键人工智能技术,行为监控,behavior monitoring
+170,Key AI Technologies,关键人工智能技术,虚拟现实,virtual reality (VR)
+171,Key AI Technologies,关键人工智能技术,增强现实,augmented reality (AR)
+172,Key AI Technologies,关键人工智能技术,头戴显示器,head-mounted display
+173,Key AI Technologies,关键人工智能技术,智能眼镜,smart glasses
+174,Key AI Technologies,关键人工智能技术,虚拟交互,virtual interaction
+175,Key AI Technologies,关键人工智能技术,虚拟游戏,virtual games
+176,Key AI Technologies,关键人工智能技术,虚拟购物,virtual shopping
+177,Key AI Technologies,关键人工智能技术,增强实境,augmented reality
+178,Key AI Technologies,关键人工智能技术,虚拟实境,virtual reality
+179,Key AI Technologies,关键人工智能技术,人机交互,human-computer interaction
+180,Key AI Technologies,关键人工智能技术,眼动跟踪,eye tracking
+181,Key AI Technologies,关键人工智能技术,眼球追踪,eyeball tracking
+182,Key AI Technologies,关键人工智能技术,视觉轨迹跟踪,visual trajectory tracking
+183,Key AI Technologies,关键人工智能技术,头部轨迹跟踪,head trajectory tracking
+184,Key AI Technologies,关键人工智能技术,数据手套,data gloves
+185,Key AI Technologies,关键人工智能技术,语音交互,voice interaction
+186,Key AI Technologies,关键人工智能技术,语音唤醒,voice wake-up
+187,Key AI Technologies,关键人工智能技术,语音提示,voice prompt
+188,Key AI Technologies,关键人工智能技术,人机对话,human-computer dialogue
+189,Key AI Technologies,关键人工智能技术,声音分析,sound analysis
+190,Key AI Technologies,关键人工智能技术,语音输入,speech input
+191,Key AI Technologies,关键人工智能技术,体感交互,somatosensory interaction
+192,Key AI Technologies,关键人工智能技术,动作感知,motion sensing
+193,Key AI Technologies,关键人工智能技术,姿态捕捉,pose capture
+194,Key AI Technologies,关键人工智能技术,姿态感知,pose sensing
+195,Key AI Technologies,关键人工智能技术,触觉反馈,haptic feedback
+196,Key AI Technologies,关键人工智能技术,手势跟踪,gesture tracking
+197,Key AI Technologies,关键人工智能技术,手势识别,gesture recognition
+198,Key AI Technologies,关键人工智能技术,手部姿态,hand pose
+199,Key AI Technologies,关键人工智能技术,脑机交互,brain-computer interaction
+200,Key AI Technologies,关键人工智能技术,脑机接口,brain-computer interface
+201,Key AI Technologies,关键人工智能技术,植入式脑机,implantable brain-computer interface
+202,Key AI Technologies,关键人工智能技术,非植入式脑机,non-implantable brain-computer interface
+203,AI Application Fields,AI 应用领域,智能制造,intelligent manufacturing
+204,AI Application Fields,AI 应用领域,智慧教育,smart education
+205,AI Application Fields,AI 应用领域,智慧金融,smart finance
+206,AI Application Fields,AI 应用领域,智慧农业,smart agriculture
+207,AI Application Fields,AI 应用领域,智能家居,smart home
+208,AI Application Fields,AI 应用领域,智慧物流,smart logistics
+209,AI Application Fields,AI 应用领域,智慧交通,smart transportation
+210,AI Application Fields,AI 应用领域,智慧医疗,smart healthcare
+211,AI Application Fields,AI 应用领域,智慧媒体,smart media
+212,AI Application Fields,AI 应用领域,智慧防疫,smart epidemic prevention
+213,AI Application Fields,AI 应用领域,智能安防设备,smart security equipment
+214,AI Application Fields,AI 应用领域,智能终端,smart terminals
+215,AI Application Fields,AI 应用领域,智能医疗设备,smart medical equipment
+216,AI Application Fields,AI 应用领域,智慧媒体管理平台,smart media management platform
+217,AI Application Fields,AI 应用领域,智慧防疫平台,smart epidemic prevention platform
+218,AI Application Fields,AI 应用领域,智能驾驶,smart driving
